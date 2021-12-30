@@ -29,3 +29,5 @@ function classes() {
   Object.assign(Base.prototype, sourceObj);
   return Base;
 }
+
+export default classes;

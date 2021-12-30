@@ -1,0 +1,21 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "multiple inheritance",
+  "main": "classes.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssj9685/classes.git"
+  },
+  "author": "Seokjin Shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssj9685/classes/issues"
+  },
+  "homepage": "https://github.com/ssj9685/classes#readme"
+}
