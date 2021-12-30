@@ -1,5 +1,5 @@
 {
-  "name": "classes",
+  "name": "multi-inherit",
   "version": "1.0.0",
   "description": "multiple inheritance",
   "main": "classes.js",
