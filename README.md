@@ -22,5 +22,6 @@ class B {
 class C extends classes(A, B) {}
 const c = new C();
 c.a(); //a
+c.b(); //b
 
 ```
