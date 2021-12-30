@@ -21,3 +21,4 @@ class C {
 class D extends classes(A, B, C) {}
 const d = new D();
 d.a();
+adsfasdf;
