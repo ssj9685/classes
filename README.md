@@ -2,4 +2,4 @@
 multiple inheritance
 
 ## usage
-class D extends classes(A,B,C){}
+```javascript class D extends classes(A,B,C){}```
